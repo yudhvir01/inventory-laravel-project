@@ -8,8 +8,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
-     build: {
-        outDir: 'dist', // Change this to 'dist' or whatever directory you need
-    },
 });
 
